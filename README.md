@@ -24,6 +24,7 @@ Para instalar o ``VSCode``: https://www.youtube.com/watch?v=iLraM_NZYfA
 
 ## 🔮 Implementações Futuras
 - Incorporar projeto em sistemas de cadastros.
+- Gerar execultavél
 
 ## ✅ Status do Projeto
 ![concluido](https://github.com/user-attachments/assets/20fd7b70-324e-46c8-928e-17b6e76e1f4b)
