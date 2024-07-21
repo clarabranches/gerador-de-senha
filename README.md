@@ -26,4 +26,5 @@ Para instalar o ``VSCode``: https://www.youtube.com/watch?v=iLraM_NZYfA
 - Incorporar projeto em sistemas de cadastros.
 
 ## ✅ Status do Projeto
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge"/>
+![concluido](https://github.com/user-attachments/assets/20fd7b70-324e-46c8-928e-17b6e76e1f4b)
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="174.75" height="28" role="img" aria-label="STATUS: CONCLUÍDO"><g shape-rendering="crispEdges"><rect width="71.5" height="28" fill="#555"/><rect x="71.5" width="103.25" height="28" fill="#4c1"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="357.5" y="175" textLength="475" fill="#fff">
