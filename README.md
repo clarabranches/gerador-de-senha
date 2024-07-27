@@ -4,7 +4,7 @@
 Esse projeto é uma aplicação que gera uma senha automaticamente, perguntar o usuário desenha trocar a senha criada e se a resposta for sim, verificar se a nova senha está nos padrões definidos (conter letras maiúsculas e minúsculas, números e caracteres especiais). 
 O projeto pode ser implementado em sistemas de cadastro de outras aplicações.
 
-## 🛠️ Funcionalidades
+## 🛠️ Algoritmo
 - Criar senha
 - Verificar se a senha tem números
 - Verificar se a senha tem letras minúsculas
